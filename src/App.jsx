@@ -4,7 +4,7 @@ import Read from "./components/Read";
 
 const App = () => {
   const [todos, settodos] = useState([
-    { id: 1, title: "Kaam kar le re", isCompleted: false },
+    { id: 1, title: "Test", isCompleted: false },
   ]);
   return (
     <div className="flex w-screen h-screen bg-gray-800 p-10 text-white">
