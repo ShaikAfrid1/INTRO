@@ -15,7 +15,7 @@ This is a simple, responsive, and user-friendly Todo App built using React. The 
 
 ## 🚀 Live Demo
 
-You can view the live version of this app here: [React Todo App Live Demo](https://shaikafrid1.github.io/react-todo-app)
+You can view the live version of this app here: [React Todo App Live Demo](https://todooreacttapp.netlify.app/)
 
 ## ⚡ Technologies Used
 
