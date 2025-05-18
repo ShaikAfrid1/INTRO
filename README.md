@@ -1,12 +1,45 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Project Description
 
-Currently, two official plugins are available:
+This is a simple, responsive, and user-friendly Todo App built using React. The application allows users to seamlessly add, edit, delete, and mark tasks as completed. With a clean and minimalistic design, the app ensures a smooth user experience. This project is an excellent starting point for anyone looking to learn React and practice state management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Features
 
-## Expanding the ESLint configuration
+* Add new tasks to your todo list.
+* Mark tasks as completed.
+* Edit existing tasks.
+* Delete tasks you no longer need.
+* Clear all completed tasks.
+* Persistent storage using Local Storage (your tasks are saved even after page refresh).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+You can view the live version of this app here: [React Todo App Live Demo](https://shaikafrid1.github.io/react-todo-app)
+
+## ⚡ Technologies Used
+
+* React (Functional Components & Hooks)
+* HTML & Tailwind CSS (for styling)
+* JavaScript (for logic)
+
+
+## 🌟 Usage
+
+* Add a new task using the input field.
+* Click on a task to mark it as completed.
+* Use the edit button to modify a task.
+* Use the delete button to remove a task.
+* Refresh the page to see that your tasks are saved.
+
+
+## ✨ Acknowledgments
+
+* React documentation.
+* Inspiration from various Todo App designs.
+
+---
+
+## 👨‍💻 Author
+
+* **Shaik Afrid** - [GitHub Profile](https://github.com/ShaikAfrid1)
