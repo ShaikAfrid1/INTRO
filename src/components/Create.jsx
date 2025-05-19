@@ -33,7 +33,7 @@ const Create = (props) => {
           placeholder="Title"
         />
         <br /> <br />
-        <button className="mt-10 text-xl px-10 py-2 border rounded hover:bg-gray-700 cursor-pointer active:-scale-1 ">
+        <button className="mt-10 text-xl px-10 py-2 border rounded hover:bg-gray-700 cursor-pointer active:-scale-x-90 ">
           Create Todo
         </button>
       </form>
