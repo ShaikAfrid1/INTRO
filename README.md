@@ -23,7 +23,6 @@ You can view the live version of this app here: [React Todo App Live Demo](https
 * HTML & Tailwind CSS (for styling)
 * JavaScript (for logic)
 
-
 ## 🌟 Usage
 
 * Add a new task using the input field.
@@ -31,7 +30,6 @@ You can view the live version of this app here: [React Todo App Live Demo](https
 * Use the edit button to modify a task.
 * Use the delete button to remove a task.
 * Refresh the page to see that your tasks are saved.
-
 
 ## ✨ Acknowledgments
 
